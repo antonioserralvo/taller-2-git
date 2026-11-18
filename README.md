@@ -1,3 +1,3 @@
-# Proyecto web - 1.º DAM
-Integrantes: Estudiante A y Estudiante B.
-Práctica de Git y GitHub.
+# taller-2-git
+Proyecto web de Entornos de Desarrollo (1.º DAM).
+Integrantes: Antonio Serralvo Fernandez y Sergio Martín Bastazo.
